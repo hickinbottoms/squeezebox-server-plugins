@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<!-- Extension repository file for SqueezeCenter plugins -->
+<!-- Copyright © Stuart Hickinbottom -->
+
+<extensions>
+	<details>
+		<title lang="EN">Stuart Hickinbottom's SqueezeCenter Plugins</title>
+	</details>
+
+  <plugins>
+	<plugin name="LazySearch2" version="3.3" target="windows|mac|unix" minTarget="7.3" maxTarget="7.4+">
+	  <title lang="EN">LazySearch2</title>
+	  <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results "as you type". This plugin works with the original infra-red remote control, and doesn't affect the operation of the Controller.</desc>
+	  <creator>Stuart Hickinbottom</creator>
+	  <email>stuart@hickinbottom.com</email>
+	  <link>http://www.hickinbottom.com/lazysearch</link>
+	  <url>http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.3.zip</url>
+	  <sha>1854fd3a913ba1e62f03eabac7156467fc8ff504</sha>
+	</plugin>
+	
+	<plugin name="AutoRescan" version="1.0b6" target="windows|unix" minTarget="7.3" maxTarget="7.4+">
+	  <title lang="EN">AutoRescan</title>
+	  <desc lang="EN">AutoRescan is a plugin that will detect changes to your music folder and will automatically trigger a rescan if any files have been added, removed or changed. This means changes to appear in your music library automatically. Note that Windows users need to be running a 'source code' version of SqueezeCenter under ActivePerl - see the plugin website for further details.</desc>
+	  <creator>Stuart Hickinbottom</creator>
+	  <email>stuart@hickinbottom.com</email>
+	  <link>http://www.hickinbottom.com/autorescan</link>
+	  <url>http://www.hickinbottom.com/sc-plugins/AutoRescan-1.0b6.zip</url>
+	  <sha>e747f8f4ba56bf58b8e624237fdfa284b1d083da</sha>
+	</plugin>
+  </plugins>
+
+</extensions>
