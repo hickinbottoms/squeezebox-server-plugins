@@ -9,14 +9,14 @@
 	</details>
 
   <plugins>
-	<plugin name="LazySearch2" version="3.4" target="windows|mac|unix" minTarget="7.3" maxTarget="7.4+">
+	<plugin name="LazySearch2" version="3.5.1" target="windows|mac|unix" minTarget="7.3" maxTarget="7.4+">
 	  <title lang="EN">LazySearch2</title>
 	  <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results "as you type". This plugin works with the original infra-red remote control, and doesn't affect the operation of the Controller.</desc>
 	  <creator>Stuart Hickinbottom</creator>
 	  <email>stuart@hickinbottom.com</email>
 	  <link>http://www.hickinbottom.com/lazysearch</link>
-	  <url>http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.4.zip</url>
-	  <sha>b908f7b7ed07b692525d0352e9bc7e00d84092c3</sha>
+	  <url>http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.5.1.zip</url>
+	  <sha>4a6f321725e681d26d330207662a0ff50473f715</sha>
 	</plugin>
 	
 	<plugin name="AutoRescan" version="1.0b6" target="windows|unix" minTarget="7.3" maxTarget="7.4+">
