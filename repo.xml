@@ -19,14 +19,14 @@
 	  <sha>a45bb0ee7e80e0eb9f01560e2eed7ccc3c6f2dc0</sha>
 	</plugin>
 	
-	<plugin name="AutoRescan" version="1.0b6" target="windows|unix" minTarget="7.3" maxTarget="7.4+">
+	<plugin name="AutoRescan" version="1.0b7" target="windows|unix" minTarget="7.3" maxTarget="7.4+">
 	  <title lang="EN">AutoRescan</title>
 	  <desc lang="EN">AutoRescan is a plugin that will detect changes to your music folder and will automatically trigger a rescan if any files have been added, removed or changed. This means changes to appear in your music library automatically. Note that Windows users need to be running a 'source code' version of SqueezeCenter under ActivePerl - see the plugin website for further details.</desc>
 	  <creator>Stuart Hickinbottom</creator>
 	  <email>stuart@hickinbottom.com</email>
 	  <link>http://www.hickinbottom.com/autorescan</link>
-	  <url>http://www.hickinbottom.com/sc-plugins/AutoRescan-1.0b6.zip</url>
-	  <sha>e747f8f4ba56bf58b8e624237fdfa284b1d083da</sha>
+	  <url>http://www.hickinbottom.com/sc-plugins/AutoRescan-1.0b7.zip</url>
+	  <sha>3ecf9140a87bd53d416f39702749eb83e42f7dec</sha>
 	</plugin>
   </plugins>
 
