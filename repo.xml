@@ -39,14 +39,14 @@
 	  <sha>ab731de74841aa968f27070fded15304512e82db</sha>
 	</plugin>
 
-	<plugin name="LazySearch2" version="3.6.4" target="windows|mac|unix" minTarget="7.6" maxTarget="7.8+">
+	<plugin name="LazySearch2" version="3.6.5" target="windows|mac|unix" minTarget="7.6" maxTarget="7.9+">
 	  <title lang="EN">LazySearch2</title>
 	  <desc lang="EN">Lazy Search Music is a plugin that lets you search for music without having to multi-tap each letter in the search text you're after, and displays search results "as you type". This plugin works with Squeezeboxes and Transporters when using a remote control featuring number keys, and doesn't affect the operation of the Controller.</desc>
 	  <creator>Stuart Hickinbottom</creator>
 	  <email>stuart@hickinbottom.com</email>
 	  <link>http://www.hickinbottom.com/lazysearch</link>
-	  <url>http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.4.zip</url>
-	  <sha>ade0b361c9d7350e3741e7f467201852d4ba99fb</sha>
+	  <url>http://www.hickinbottom.com/sc-plugins/LazySearch2-7-3.6.5.zip</url>
+	  <sha>2d1d47507ff55790374b5ac2af48f7a921996262</sha>
 	</plugin>
 
 	<plugin name="AutoRescan" version="1.1" target="windows|unix" minTarget="7.3" maxTarget="7.5+">
